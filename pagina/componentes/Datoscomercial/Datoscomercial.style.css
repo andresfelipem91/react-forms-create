@@ -1,0 +1,14 @@
+.Datoscomercial-container{
+    width: 50%;
+    min-height: 10px;
+    margin-left: 50px;
+    border: 1px solid chartreuse;
+}
+.datos{
+   
+    padding-left: 30px;
+}
+.estado-comercio{
+    color:brown;
+    padding-left: 30px;
+}

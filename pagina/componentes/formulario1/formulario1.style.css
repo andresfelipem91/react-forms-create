@@ -1,0 +1,14 @@
+.formulario1-container{
+    width: 15%;
+    min-height: 200px;
+    border: 1px solid rebeccapurple;
+}
+.centrar{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    
+}
+.error{
+    color: brown;
+}

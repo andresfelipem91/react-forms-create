@@ -1,0 +1,15 @@
+.Datosproducto-container{
+    width: 96%;
+    min-height: 10px;
+    margin-left: 10px;
+    margin-right: 30px;
+    border: 1px solid blue;
+}
+.datos{
+   
+    padding-left: 30px;
+}
+.estado-comercio{
+    color:brown;
+    padding-left: 30px;
+}
